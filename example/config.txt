@@ -1,0 +1,2 @@
+Prefix plugins/WindowStride/example/
+Plugin WindowStride inputfile parameters.txt outputfile elect

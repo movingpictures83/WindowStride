@@ -1,0 +1,4 @@
+datapath	LD2011_2012.csv
+windowsize	100
+stridesize	500
+testratio	0.3
